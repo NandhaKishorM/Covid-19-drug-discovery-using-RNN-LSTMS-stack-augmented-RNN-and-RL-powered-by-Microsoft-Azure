@@ -19,7 +19,7 @@ pyOpenSSL==18.0.0
 PySocks==1.6.8
 python-dateutil==2.8.1
 pytz==2020.1
-requests==2.18.4
+requests==2.20.0
 ruamel-yaml==0.15.37
 six==1.11.0
 ujson==2.0.3
