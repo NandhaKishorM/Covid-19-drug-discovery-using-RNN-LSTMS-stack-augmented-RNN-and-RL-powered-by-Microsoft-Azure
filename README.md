@@ -25,7 +25,7 @@
 
 
 
-# REQUIREMENTS:
+# Requirements:
 
 In order to get started you will need:
 * Modern NVIDIA GPU, [compute capability 3.5](https://developer.nvidia.com/cuda-gpus) of newer.
