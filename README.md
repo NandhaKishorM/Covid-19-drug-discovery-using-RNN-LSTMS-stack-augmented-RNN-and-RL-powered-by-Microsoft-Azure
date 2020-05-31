@@ -1,4 +1,4 @@
-# RNN-LSTMS, stack-augmented RNN and Reinforcement learning drug design for COVID-19 - A novel approach
+# RNN-LSTMS, stack-augmented RNN and Reinforcement learning drug design for COVID-19 using Microsoft Azure 
 
 * The goal is to create a novel small molecule which can bind with the novel corona virus
 * Combining Generative Recurrent Networks for De Novo Drug Design(https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111) & Deep reinforcement learning for de novo drug design(https://advances.sciencemag.org/content/4/7/eaap7885)papers
