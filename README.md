@@ -43,12 +43,12 @@ In order to get started you will need:
 * pip install xgboost
 * pip install jupyter notebook
 
-# Demo using microsoft azure
+# Training using microsoft azure
 * Use the ml notebook instance powered by GPU
 * clone this repo
 * and use demo.ipynb notebook to run and test
 
-# Demo local sytem
+# Training using local system
 
 * open terminal/cmd 
 * type jupyter notebook
