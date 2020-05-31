@@ -5,7 +5,6 @@
 * using deep learning techniques for small molecule generation and PyRx to evaluate binding affinities.
 * Binding scores of leading existing drugs are around -10 to -11(more negative score the better) and around -13 for the drug Remdesivir which recently entered clinical testing. 
 * Most of the design generate molecules without considering their property. Higher binding affinity will not ensure a practical drug. We need a policy based algorithm to obtain practical micro molecules.
-* We are thanking Matt O'Connor(https://github.com/mattroconnor/deep_learning_coronavirus_cure) and Olexandr Isayev(https://github.com/isayev/ReLeaSE) helping us in getting the algorithm and understanding the approach.
 * We changed the hyperaprameters, model architecture and combined these two novel methods in to a single approach to solve the most complex drug designing problem.
 * We uses RNN-LSTM to generate novel micro molecules and saves the model. It has taken 10 hours to train in Google Colab after we changing the hyperparam.
 * the model gets fine tuned using transfer learning and genetic algorithm by injecting Remdesivir and HIV inhibitors.
