@@ -1,0 +1,25 @@
+# All smiles files 
+*.smi
+
+# Checkpoints
+checkpoints/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Intelij idea files
+*.idea
+
+# Log directory
+logs/
+
+# Ipython notebook checkpoints
+.ipynb_checkpoints/
+
+# OpenChem
+OpenChem/
+
+# pytest
+.coverage
