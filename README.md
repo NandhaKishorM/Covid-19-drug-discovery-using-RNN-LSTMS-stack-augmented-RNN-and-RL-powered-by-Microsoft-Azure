@@ -18,6 +18,11 @@
 * We are studying the genomics sequence which may helps as a policy function to generate better molecules
 * We are also working on the practical side effects of the drugs that are going to design using GUI, which will helps to fine tune our model. 
 
+![alt text](https://github.com/kishorkuttan/Covid-19-chatbot-using-IBM-cloud-and-deep-learning/blob/master/Training_on_azure_overview.png?raw=true)
+## Training the model on Microsoft Azure ML notebook
+
+![alt text](https://github.com/kishorkuttan/Covid-19-chatbot-using-IBM-cloud-and-deep-learning/blob/master/generating_molecule.png?raw=true)
+## Generated new molecules after training
 
 
 # REQUIREMENTS:
