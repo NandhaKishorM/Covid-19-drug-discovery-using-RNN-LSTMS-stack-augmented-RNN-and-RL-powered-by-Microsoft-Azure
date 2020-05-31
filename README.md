@@ -13,7 +13,7 @@
 * The network architecture has to be modified inorder to work better on the given cleaned dataset. Hyperparameter optimization done prior to the training
 * These molecules then fine tuned using logP optimization Reinforcement learning and generate molecules with optimized logP value. As the generator as an agent and the predictor as a critic.
 * The file is saved as final_data.smi and convert to a .sdf file for PyRx analysis.
-## we were able to create several small molecule candidates which achieved binding scores up to -18.
+## We were able to create several small molecule candidates which achieved binding scores up to -18.
 * Afer getting the ligand we will test the binding affinty with covid-19 protein using PyRx.
 * We are studying the genomics sequence which may helps as a policy function to generate better molecules
 * We are also working on the practical side effects of the drugs that are going to design using GUI, which will helps to fine tune our model. 
@@ -43,7 +43,7 @@ In order to get started you will need:
 * pip install xgboost
 * pip install jupyter notebook
 
-# Training using microsoft azure
+# Training using Microsoft Azure
 * Use the ml notebook instance powered by GPU
 * clone this repo
 * and use demo.ipynb notebook to run and test
