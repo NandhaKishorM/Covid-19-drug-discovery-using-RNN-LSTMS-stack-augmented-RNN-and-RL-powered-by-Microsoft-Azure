@@ -43,9 +43,10 @@ In order to get started you will need:
 * pip install xgboost
 * pip install jupyter notebook
 
-# Demo Google Colab
-* Download the folder and put it in Google drive
-* Upload the notebook demo.ipynb and run it.
+# Demo using microsoft azure
+* Use the ml notebook instance powered by GPU
+* clone this repo
+* and use demo.ipynb notebook to run and test
 
 # Demo local sytem
 
@@ -53,8 +54,5 @@ In order to get started you will need:
 * type jupyter notebook
 * open the demo.ipynb
 
-# Using Flask web app
 
-* open app.py
-* Researchers can upload the SMILES file and download the "output.sdf" to use in PyRx
 
