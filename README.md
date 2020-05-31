@@ -17,7 +17,7 @@
 * Afer getting the ligand we will test the binding affinty with covid-19 protein using PyRx.
 * We are studying the genomics sequence which may helps as a policy function to generate better molecules
 * We are also working on the practical side effects of the drugs that are going to design using GUI, which will helps to fine tune our model. 
-* we need the cloud AI GPU and analytics to power-up the process, which we are expecting from this hackathon
+
 
 
 # REQUIREMENTS:
