@@ -17,12 +17,12 @@
 * Afer getting the ligand we will test the binding affinty with covid-19 protein using PyRx.
 * We are studying the genomics sequence which may helps as a policy function to generate better molecules
 * We are also working on the practical side effects of the drugs that are going to design using GUI, which will helps to fine tune our model. 
-
-![alt text](https://github.com/kishorkuttan/Covid-19-drug-discovery-using-RNN-LSTMS-stack-augmented-RNN-and-RL-powered-by-Microsoft-Azure/blob/master/Training_on_azure_overview.png?raw=true)
 ## Training the model on Microsoft Azure ML notebook
+![alt text](https://github.com/kishorkuttan/Covid-19-drug-discovery-using-RNN-LSTMS-stack-augmented-RNN-and-RL-powered-by-Microsoft-Azure/blob/master/Training_on_azure_overview.png?raw=true)
 
-![alt text](https://github.com/kishorkuttan/Covid-19-drug-discovery-using-RNN-LSTMS-stack-augmented-RNN-and-RL-powered-by-Microsoft-Azure/blob/master/generating_molecule.png?raw=true)
 ## Generated new molecules after training
+![alt text](https://github.com/kishorkuttan/Covid-19-drug-discovery-using-RNN-LSTMS-stack-augmented-RNN-and-RL-powered-by-Microsoft-Azure/blob/master/generating_molecule.png?raw=true)
+
 
 
 # REQUIREMENTS:
