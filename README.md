@@ -1,3 +1,5 @@
+# Demo video on Azure ML notebook
+![Alt text](https://img.youtube.com/vi/cTnMJP2GgdY/0.jpg)](https://youtu.be/7EgA9zOhAP4)
 # RNN-LSTMS, stack-augmented RNN and Reinforcement learning drug design for COVID-19 using Microsoft Azure 
 
 * The goal is to create a novel small molecule which can bind with the novel corona virus
