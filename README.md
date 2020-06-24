@@ -1,10 +1,9 @@
 # Demo video on Azure ML notebook
 ![Alt text](https://img.youtube.com/vi/7EgA9zOhAP4/0.jpg)](https://youtu.be/7EgA9zOhAP4)
 # RNN-LSTMS, stack-augmented RNN and Reinforcement learning drug design for COVID-19 using Microsoft Azure 
-
-* The goal is to create a novel small molecule which can bind with the novel corona virus
-* Combining Generative Recurrent Networks for De Novo Drug Design(https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111) & Deep reinforcement learning for de novo drug design(https://advances.sciencemag.org/content/4/7/eaap7885)papers
-GitHub rep links: https://github.com/mattroconnor/deep_learning_coronavirus_cure , https://github.com/isayev/ReLeaSE
+* Started the project from https://github.com/mattroconnor/deep_learning_coronavirus_cure , the approach is great and everyone should check this repo.
+* Combining Generative Recurrent Networks for De Novo Drug Design(https://onlinelibrary.wiley.com/doi/full/10.1002/minf.201700111) & Deep reinforcement learning for de novo drug design(https://advances.sciencemag.org/content/4/7/eaap7885)papers,
+* GitHub rep links: https://github.com/mattroconnor/deep_learning_coronavirus_cure , https://github.com/isayev/ReLeaSE
 * using deep learning techniques for small molecule generation and PyRx to evaluate binding affinities.
 * Binding scores of leading existing drugs are around -10 to -11(more negative score the better) and around -13 for the drug Remdesivir which recently entered clinical testing. 
 * Most of the design generate molecules without considering their property. Higher binding affinity will not ensure a practical drug. We need a policy based algorithm to obtain practical micro molecules.
