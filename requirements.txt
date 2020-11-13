@@ -24,4 +24,4 @@ ruamel-yaml==0.15.37
 six==1.11.0
 ujson==2.0.3
 urllib3==1.22
-tensorflow-gpu==1.14.0
+tensorflow-gpu==2.3.1
